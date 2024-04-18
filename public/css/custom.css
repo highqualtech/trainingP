@@ -1,0 +1,9 @@
+.textfix {
+    text-transform: lowercase;
+}
+.textfix:first-letter {
+    text-transform: capitalize;
+}
+.sidebar, .sidebar-content{background:#4e5657 !important;}
+.tab-content{padding-top:15px;}
+.js-select{width:100%;}
