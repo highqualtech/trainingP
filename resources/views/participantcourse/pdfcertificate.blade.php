@@ -3,7 +3,7 @@
 <div style="width:660px;padding:-1px 30px 30px 30px">
 <table style="width:100%;">
     <tr>
-        <td style="width:193px;vertical-align:top;text-align:center;padding-top:30px;"><img src="https://lms.hqtcloud.co.uk/img/logo2x.png" style="max-width:180px;"></td>
+        <td style="width:193px;vertical-align:top;text-align:center;padding-top:30px;"><img src="" style="max-width:180px;"></td>
         <td style="vertical-align:top;font-size:16px;font-family:Arial, sans-serif;background:#f8f6f6;padding:50px;"><span style="font-size:24px;"></td>
     </tr>
 </table>
