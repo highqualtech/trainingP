@@ -1,5 +1,7 @@
 Copyright & License
-Copyright (c) 2024 High Quality Technology Ltd (Registered in England and Wales 05800070). 
+
+Copyright (c) 2024 High Quality Technology Ltd (Registered in England and Wales 05800070).
+
 This file is part of HQT Training Portal, an open-source project dedicated to delivering high quality training platforms, for use to improve access to education platforms.
 
 HQT Training Portal is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
